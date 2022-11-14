@@ -1,9 +1,13 @@
 #github
 library(usethis)
+create_github_token()
+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
 library(gitcreds)
 gitcreds_set()
-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
+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
+
 use_github()
+
 #code
 
 library(dlnm)
